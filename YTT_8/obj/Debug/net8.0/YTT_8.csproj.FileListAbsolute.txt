@@ -1,0 +1,17 @@
+C:\Users\h4nz1\RiderProjects\YTT_8\YTT_8\bin\Debug\net8.0\YTT_8.exe
+C:\Users\h4nz1\RiderProjects\YTT_8\YTT_8\bin\Debug\net8.0\YTT_8.deps.json
+C:\Users\h4nz1\RiderProjects\YTT_8\YTT_8\bin\Debug\net8.0\YTT_8.runtimeconfig.json
+C:\Users\h4nz1\RiderProjects\YTT_8\YTT_8\bin\Debug\net8.0\YTT_8.dll
+C:\Users\h4nz1\RiderProjects\YTT_8\YTT_8\bin\Debug\net8.0\YTT_8.pdb
+C:\Users\h4nz1\RiderProjects\YTT_8\YTT_8\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\h4nz1\RiderProjects\YTT_8\YTT_8\obj\Debug\net8.0\YTT_8.csproj.AssemblyReference.cache
+C:\Users\h4nz1\RiderProjects\YTT_8\YTT_8\obj\Debug\net8.0\YTT_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h4nz1\RiderProjects\YTT_8\YTT_8\obj\Debug\net8.0\YTT_8.AssemblyInfoInputs.cache
+C:\Users\h4nz1\RiderProjects\YTT_8\YTT_8\obj\Debug\net8.0\YTT_8.AssemblyInfo.cs
+C:\Users\h4nz1\RiderProjects\YTT_8\YTT_8\obj\Debug\net8.0\YTT_8.csproj.CoreCompileInputs.cache
+C:\Users\h4nz1\RiderProjects\YTT_8\YTT_8\obj\Debug\net8.0\YTT_8.csproj.Up2Date
+C:\Users\h4nz1\RiderProjects\YTT_8\YTT_8\obj\Debug\net8.0\YTT_8.dll
+C:\Users\h4nz1\RiderProjects\YTT_8\YTT_8\obj\Debug\net8.0\refint\YTT_8.dll
+C:\Users\h4nz1\RiderProjects\YTT_8\YTT_8\obj\Debug\net8.0\YTT_8.pdb
+C:\Users\h4nz1\RiderProjects\YTT_8\YTT_8\obj\Debug\net8.0\YTT_8.genruntimeconfig.cache
+C:\Users\h4nz1\RiderProjects\YTT_8\YTT_8\obj\Debug\net8.0\ref\YTT_8.dll
